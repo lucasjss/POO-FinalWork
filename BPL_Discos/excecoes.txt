@@ -1,0 +1,7 @@
+
+Error: For input string: "a"
+Time: Tue Dec 20 07:24:44 BRT 2022
+Error: For input string: "s"
+Time: Wed Dec 21 07:37:27 BRT 2022
+Error: For input string: "a"
+Time: Wed Dec 21 08:22:35 BRT 2022
